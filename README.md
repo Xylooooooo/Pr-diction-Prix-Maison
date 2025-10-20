@@ -5,6 +5,7 @@ Ce projet utilise un modèle de machine learning pour prédire le prix de maison
 # Contenu du projet
 
 - `House_price.ipynb` : le notebook Jupyter principal contenant le code, l’analyse des données et la modélisation.
+- `House_price.ipynb` : dataset provenant de Kaggle
 
 # Technologies utilisées
 
